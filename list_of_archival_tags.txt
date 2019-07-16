@@ -1,0 +1,15 @@
+
+Dry dynamical-core-only simulations:
+ - archive/huiwanpnnl/james_20190621_dycore_only_dp      (double-precision)
+ - archive/huiwanpnnl/james_20190621_dycore_only_spuv    (single-precision u and v)
+ - archive/huiwanpnnl/james_20190621_dycore_only_spuvtps (single-precision u, v, T, ps)
+
+Baroclinic wave test:
+ - archive/huiwanpnnl/james_20190621_dycore_only_dp      (double-precision)
+ - archive/huiwanpnnl/james_20190621_dycore_jwtest_spuv  (single-precision u and v)
+ - archive/huiwanpnnl/james_20190621_dycore_jwtest_hpuv  (half-precision u and v)
+
+Full-model simulations:
+ - archive/huiwanpnnl/james_20190621_e3sm_full_dp            (double-precision)
+ - archive/huiwanpnnl/james_20190621_e3sm_full_spclubb       (single-precision CLUBB)
+ - archive/huiwanpnnl/james_20190621_e3sm_full_pseudohpclubb (half-precision CLUBB)
