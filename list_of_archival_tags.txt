@@ -1,15 +1,20 @@
+branch names and tags
 
 Dry dynamical-core-only simulations:
- - archive/huiwanpnnl/james_20190621_dycore_only_dp      (double-precision)
- - archive/huiwanpnnl/james_20190621_dycore_only_spuv    (single-precision u and v)
- - archive/huiwanpnnl/james_20190621_dycore_only_spuvtps (single-precision u, v, T, ps)
+ - zhan391/atm/reduced_precision_dycore_only_dp      (double-precision)
+   tag: ZhangS_JAMES_2019_dycore_only_dp
+ - zhan391/reduced_precision_dycore_only_spuv    (single-precision u and v)
+   tag: ZhangS_JAMES_2019_dycore_only_spuv
+ - zhan391/atm/reduced_precision_dycore_only_spuvtps (single-precision u, v, T, ps)
+   tag: ZhangS_JAMES_2019_dycore_only_spuvtps
 
 Baroclinic wave test:
- - archive/huiwanpnnl/james_20190621_dycore_only_dp      (double-precision)
- - archive/huiwanpnnl/james_20190621_dycore_jwtest_spuv  (single-precision u and v)
- - archive/huiwanpnnl/james_20190621_dycore_jwtest_hpuv  (half-precision u and v)
+ - zhan391/atm/reduced_precision_dycore_jwtest_dp    (double-precision)
+ - zhan391/atm/reduced_precision_dycore_jwtest_spuv  (single-precision u and v)
+ - zhan391/atm/reduced_precision_dycore_jwtest_hpuv  (half-precision u and v)
 
 Full-model simulations:
- - archive/huiwanpnnl/james_20190621_e3sm_full_dp            (double-precision)
- - archive/huiwanpnnl/james_20190621_e3sm_full_spclubb       (single-precision CLUBB)
- - archive/huiwanpnnl/james_20190621_e3sm_full_pseudohpclubb (half-precision CLUBB)
+ - zhan391/atm/reduced_precision_e3sm_full_dp            (double-precision)
+ - zhan391/atm/reduced_precision_e3sm_full_spclubb       (single-precision CLUBB)
+ - zhan391/atm/reduced_precision_e3sm_full_pseudohpclubb (half-precision CLUBB)
+
