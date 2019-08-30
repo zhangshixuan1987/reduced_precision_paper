@@ -10,11 +10,16 @@ Dry dynamical-core-only simulations:
 
 Baroclinic wave test:
  - zhan391/atm/reduced_precision_dycore_jwtest_dp    (double-precision)
+   tag: ZhangS_JAMES_2019_dycore_jwtest_dp
  - zhan391/atm/reduced_precision_dycore_jwtest_spuv  (single-precision u and v)
+   tag: ZhangS_JAMES_2019_dycore_jwtest_spuv
  - zhan391/atm/reduced_precision_dycore_jwtest_hpuv  (half-precision u and v)
+   tag: ZhangS_JAMES_2019_dycore_jwtest_hpuv
 
 Full-model simulations:
  - zhan391/atm/reduced_precision_e3sm_full_dp            (double-precision)
+   tag: ZhangS_JAMES_2019_e3sm_full_dp
  - zhan391/atm/reduced_precision_e3sm_full_spclubb       (single-precision CLUBB)
+   tag: ZhangS_JAMES_2019_e3sm_full_spclubb
  - zhan391/atm/reduced_precision_e3sm_full_pseudohpclubb (half-precision CLUBB)
-
+   tag: ZhangS_JAMES_2019_e3sm_full_pseudohpclubb
